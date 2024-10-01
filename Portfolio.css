@@ -355,6 +355,7 @@ footer p {
 @media screen and (max-width: 600px) {
     * {
         scrollbar-width: none;
+        overflowX: hidden;
     }
     body {
         background-color: #c5c5c5;
